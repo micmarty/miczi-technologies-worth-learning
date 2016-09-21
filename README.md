@@ -1,4 +1,25 @@
 # miczi-technologies-worth-learning
+
+
+What I've tried?
+
+* Crystal language(Ruby-like compiled language, amazingly fast, very young yet, but seems to be great in the future)
+* Fish shell, Zsh (making my works faster and drastically more convinient)
+* Guake terminal(dropdown terminal that launches on keypress)
+* Atom Editor(Electron based, github community built editor, plenty of plugins)
+* Slack, Messenger client from github, Google Keep as linux dekstop app
+* Numix icons, LibraDark, Vivacious - favourite Ubuntu themes
+* Electron(frontend technology used for building cross-platform apps - in my opinion AMAZING)
+
+
+What I found on the Internet? What I've heard about? 
+
+* Proxmox(managing virtual machines from this linux distro)
+* Magento(PHP shopping framework)
+* Zabbix(network managing and monitoring)
+
+
+
 My personal set of tools, languages, some notes. Some of them has been used by me, about some of them I've only heard(more or less). But I want to keep important things for some more appropriate time
 
 __Things I've learned from spamtrap-viewer development:__(properitary source code)
